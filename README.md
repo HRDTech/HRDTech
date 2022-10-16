@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Horacio Regalado Díaz</h1>
-<h3 align="center">Soy graduado de Ing. Telecomunicaciones y Electronica y me dedico a desarrollar para disposistivos moviles y de hardaware, desde Cuba.</h3>
+<h3 align="center">Soy graduado de Ing. Telecomunicaciones y Electronica, me dedico a desarrollar para disposistivos moviles y de hardware, desde Cuba.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrdtech&label=Profile%20views&color=0e75b6&style=flat" alt="hrdtech" /> </p>
 
